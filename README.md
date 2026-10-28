@@ -1,5 +1,5 @@
 # Python-Mini-Project
-# QR Code Generator Using Python 
+ QR Code Generator Using Python 
 
 ## About the Project
 
@@ -19,7 +19,7 @@ It also includes an experiment with extracting text from images using Python.
 ### 1. Text QR Code
 Generates a QR code from user-provided text or data.
 
-### 2. URL QR Code
+## 2. URL QR Code
 Creates a QR code for a URL and checks whether it starts with HTTP or HTTPS.
 
 ### 3. Colorful QR Code
