@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Mini-Project
 # QR Code Generator Using Python 
 
 ## About the Project
